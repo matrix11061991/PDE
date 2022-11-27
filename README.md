@@ -1,2 +1,4 @@
 # PDE
-Partial differential equation solving with python
+Partial differential equation solving with python 
+## Requirement
+Fypi
